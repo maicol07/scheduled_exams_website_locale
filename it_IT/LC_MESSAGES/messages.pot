@@ -4,29 +4,37 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Domain: messages\n"
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:23
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:14
+msgid "%s è richiesto "
+msgstr ""
+
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:34
 msgid "Messaggio dal sito web di Interrogazioni Programmate"
 msgstr ""
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:41
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:55
 msgid "Interrogazioni Programmate"
 msgstr ""
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:47
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:61
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:65
 msgid "Nome"
 msgstr ""
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:48
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:62
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:70
 msgid "Email"
 msgstr ""
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:51
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:65
 msgid "Oggetto"
 msgstr ""
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:67
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:66
+msgid "Termini e condizioni"
+msgstr ""
+
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:82
 msgid "Il messaggio non può essere inviato. L'errore è il seguente: %s"
 msgstr ""
 
@@ -368,15 +376,27 @@ msgstr ""
 msgid "Mostrami i miei dati"
 msgstr ""
 
-#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:82
-msgid "Ho letto e accetto la [politica sulla privacy](privacy) e i [termini e le condizioni d'uso](terms) di Interrogazioni Programmate"
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:78
+msgid "Voglio inviare un messaggio generico"
 msgstr ""
 
-#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:86
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:84
+msgid "Messaggio (opzionale)"
+msgstr ""
+
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:88
+msgid "Allegati (opzionale)"
+msgstr ""
+
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:92
+msgid "Ho letto e accetto la [politica sulla privacy](privacy) e i [termini e le condizioni d'uso](terms)"
+msgstr ""
+
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:96
 msgid "Invia"
 msgstr ""
 
-#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:97
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:106
 #: D:\xampp\htdocs\scheduled_exams_website\terms.php:30
 msgid "Indietro"
 msgstr ""
