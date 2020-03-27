@@ -2,8 +2,8 @@
 # Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-03-27 14:11+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"PO-Revision-Date: 2020-03-27 14:17+0000\n"
+"Last-Translator: Maicol Battistini <maicolbattistini@live.it>\n"
 "Language-Team: English (United States) <https://translate.maicol07.it/"
 "projects/scheduled-exams/website/en_US/>\n"
 "Language: en_US\n"
@@ -14,7 +14,6 @@ msgstr ""
 "X-Domain: messages\n"
 
 #: D:\xampp\htdocs\scheduled_exams_website\form.php:14
-#, fuzzy
 msgid "%s è richiesto "
 msgstr "%s is required "
 
@@ -41,10 +40,8 @@ msgid "Oggetto"
 msgstr "Subject"
 
 #: D:\xampp\htdocs\scheduled_exams_website\form.php:66
-#, fuzzy
-#| msgid "Termini e condizioni d'uso"
 msgid "Termini e condizioni"
-msgstr "Terms and conditions of use"
+msgstr "Terms and conditions"
 
 #: D:\xampp\htdocs\scheduled_exams_website\form.php:82
 msgid "Il messaggio non può essere inviato. L'errore è il seguente: %s"
@@ -594,31 +591,24 @@ msgid "Mostrami i miei dati"
 msgstr "Show me my data"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:78
-#, fuzzy
 msgid "Voglio inviare un messaggio generico"
 msgstr "I want to send a generic message"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:84
-#, fuzzy
 msgid "Messaggio (opzionale)"
 msgstr "Message (optional)"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:88
-#, fuzzy
 msgid "Allegati (opzionale)"
 msgstr "Attachments (optional)"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:92
-#, fuzzy
-#| msgid ""
-#| "Ho letto e accetto la [politica sulla privacy](privacy) e i [termini e le "
-#| "condizioni d'uso](terms) di Interrogazioni Programmate"
 msgid ""
 "Ho letto e accetto la [politica sulla privacy](privacy) e i [termini e le "
 "condizioni d'uso](terms)"
 msgstr ""
 "I have read and accept the [privacy policy] and the [terms and terms of "
-"Scheduled Queries]"
+"use](terms)"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:96
 msgid "Invia"
