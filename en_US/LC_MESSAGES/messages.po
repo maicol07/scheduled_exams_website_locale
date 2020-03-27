@@ -12,29 +12,39 @@ msgstr ""
 "X-Generator: Weblate 3.11.3\n"
 "X-Domain: messages\n"
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:23
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:14
+msgid "%s è richiesto "
+msgstr ""
+
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:34
 msgid "Messaggio dal sito web di Interrogazioni Programmate"
 msgstr "Message from the Scheduled Exams website"
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:41
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:55
 msgid "Interrogazioni Programmate"
 msgstr "Scheduled Exams"
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:47
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:61
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:65
 msgid "Nome"
 msgstr "Name"
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:48
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:62
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:70
 msgid "Email"
 msgstr "Email"
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:51
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:65
 msgid "Oggetto"
 msgstr "Subject"
 
-#: D:\xampp\htdocs\scheduled_exams_website\contact_process.php:67
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:66
+#, fuzzy
+#| msgid "Termini e condizioni d'uso"
+msgid "Termini e condizioni"
+msgstr "Terms and conditions of use"
+
+#: D:\xampp\htdocs\scheduled_exams_website\form.php:82
 msgid "Il messaggio non può essere inviato. L'errore è il seguente: %s"
 msgstr "The message cannot be sent. The error is as follows: %s"
 
@@ -47,7 +57,9 @@ msgid "Dagli studenti per gli studenti"
 msgstr "From students to students"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:18
-msgid "Gestisci online le interrogazioni programmate assieme alla tua classe.<br>Una sola classe - Tante liste - Disponibile su tutte le piattaforme"
+msgid ""
+"Gestisci online le interrogazioni programmate assieme alla tua classe."
+"<br>Una sola classe - Tante liste - Disponibile su tutte le piattaforme"
 msgstr ""
 "Manage scheduled exams with your classroom online. <br>One Classroom - Many "
 "Lists - Available on all platforms"
@@ -69,7 +81,10 @@ msgid "Completamente sicuro"
 msgstr "Completely safe"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:51
-msgid "Tutti gli account sono gestiti da <a href='https://account.maicol07.it'>Maicol07 Account</a> con password criptate ed indecifrabili. Inoltre, tutte le nostre webapp sono protette dal protocollo di sicurezza TLS 1.3."
+msgid ""
+"Tutti gli account sono gestiti da <a href='https://account.maicol07."
+"it'>Maicol07 Account</a> con password criptate ed indecifrabili. Inoltre, "
+"tutte le nostre webapp sono protette dal protocollo di sicurezza TLS 1.3."
 msgstr ""
 "All accounts are managed by <a href='https://account.maicol07.it'>Maicol07 "
 "Account</a> with encrypted and indecipherable passwords. In addition, all of "
@@ -84,7 +99,9 @@ msgid "Design moderno"
 msgstr "Modern design"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:57
-msgid "Abbiamo integrato il recente <a href='https://material.io'>Material Design Refresh</a> per ottenere uno stile grafico più pulito, minimale e moderno."
+msgid ""
+"Abbiamo integrato il recente <a href='https://material.io'>Material Design "
+"Refresh</a> per ottenere uno stile grafico più pulito, minimale e moderno."
 msgstr ""
 "We've integrated the recent <a href='https://material.io'>Material Design "
 "Refresh</a> to achieve a cleaner, more minimal and modern graphic style."
@@ -99,7 +116,9 @@ msgid "Stampabile"
 msgstr "Printable"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:63
-msgid "Tutte le liste create con la nostra app sono stampabili in PDF, perfette per appenderle in classe!"
+msgid ""
+"Tutte le liste create con la nostra app sono stampabili in PDF, perfette per "
+"appenderle in classe!"
 msgstr ""
 "All lists created with our app are PDF printable, perfect for hanging them "
 "in class!"
@@ -113,11 +132,14 @@ msgid "Come funziona?"
 msgstr "How does that work?"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:97
-msgid "Il funzionamento è molto semplice, si costituisce di qualche passaggio ma nulla di complesso. Per qualsiasi evenienza, è sempre disponibile la <a href='https://docs.maicol07.it'>documentazione</a>"
+msgid ""
+"Il funzionamento è molto semplice, si costituisce di qualche passaggio ma "
+"nulla di complesso. Per qualsiasi evenienza, è sempre disponibile la <a "
+"href='https://docs.maicol07.it'>documentazione</a>"
 msgstr ""
 "The operation is very simple, it consists of a few steps but nothing "
-"complex. If anything, the <a "
-"href='https://docs.maicol07.it'>documentation</a>"
+"complex. If anything, the <a href='https://docs.maicol07.it'>documentation</"
+"a>"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:105
 msgid "Classi"
@@ -128,7 +150,10 @@ msgid "Mantieni insieme i tuoi compagni in una classe"
 msgstr "Keep your classmates together in a class"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:108
-msgid "Il primo passo, dopo esserti registrato o aver effettuato l'accesso, è creare una classe per riunire i tuoi compagni (dovrai aggiungerli nella lista degli studenti). Non vuoi escluderli, no?"
+msgid ""
+"Il primo passo, dopo esserti registrato o aver effettuato l'accesso, è "
+"creare una classe per riunire i tuoi compagni (dovrai aggiungerli nella "
+"lista degli studenti). Non vuoi escluderli, no?"
 msgstr ""
 "The first step, after you've registered or logged in, is to create a class "
 "to reunite your classmates (you'll need to add them to the student list). "
@@ -143,7 +168,9 @@ msgid "Visualizza le liste che hai creato da un'unica pagina"
 msgstr "View lists you've created from a single page"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:112
-msgid "Stabilisci chi può modificare le liste e le informazioni della classe gestendo i permessi di amministratore"
+msgid ""
+"Stabilisci chi può modificare le liste e le informazioni della classe "
+"gestendo i permessi di amministratore"
 msgstr ""
 "Determine who can edit class lists and information by managing administrator "
 "permissions"
@@ -157,7 +184,9 @@ msgid "Riunisci i tuoi compagni"
 msgstr "Bring your teammates together"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:117
-msgid "Dalla dashboard puoi vedere l'elenco delle tue classi. Entrando nella pagina della classe, puoi modificare tutte le informazioni della tua classe"
+msgid ""
+"Dalla dashboard puoi vedere l'elenco delle tue classi. Entrando nella pagina "
+"della classe, puoi modificare tutte le informazioni della tua classe"
 msgstr ""
 "From the dashboard you can see the list of your classes. By entering the "
 "class page, you can edit all the information in your class"
@@ -171,7 +200,8 @@ msgid "Pianifica le interrogazioni"
 msgstr "Schedule queries"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:128
-msgid "Puoi creare quante liste vuoi con il metodo di generazione che preferisci:"
+msgid ""
+"Puoi creare quante liste vuoi con il metodo di generazione che preferisci:"
 msgstr ""
 "You can create as many lists as you want with the generation method of your "
 "choice:"
@@ -197,7 +227,12 @@ msgid "Nel dettaglio"
 msgstr "In detail"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:137
-msgid "Una lista è composta da un'elenco di studenti che, uno dopo l'altro, in base all'ordine della lista, verranno interrogati. Se scegli la generazione automatica da data di inizio potrai anche scegliere quali giorni della settimana prendere in considerazione e quanti studenti interrogare in una giornata. Altre funzionalità:"
+msgid ""
+"Una lista è composta da un'elenco di studenti che, uno dopo l'altro, in base "
+"all'ordine della lista, verranno interrogati. Se scegli la generazione "
+"automatica da data di inizio potrai anche scegliere quali giorni della "
+"settimana prendere in considerazione e quanti studenti interrogare in una "
+"giornata. Altre funzionalità:"
 msgstr ""
 "A list consists of a list of students who, one after the other, according to "
 "the order of the list, will be queried. If you choose automatic generation "
@@ -226,7 +261,9 @@ msgid "Non sprecare altra carta per le tue interrogazioni programmate"
 msgstr "Don't waste another card on your scheduled queries"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:253
-msgid "Scegli di gestire online le tue interrogazioni programmate con la nostra app, smetti di tagliare alberi!"
+msgid ""
+"Scegli di gestire online le tue interrogazioni programmate con la nostra "
+"app, smetti di tagliare alberi!"
 msgstr ""
 "Choose to manage your scheduled queries online with our app, stop cutting "
 "trees!"
@@ -244,7 +281,9 @@ msgid "Registrati!"
 msgstr "Registered!"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:294
-msgid "Abbiamo realizzato un video illustrativo per presentare ancora meglio il progetto"
+msgid ""
+"Abbiamo realizzato un video illustrativo per presentare ancora meglio il "
+"progetto"
 msgstr "We made an illustrative video to present the project even better"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:307
@@ -256,7 +295,10 @@ msgid "Piani disponibili"
 msgstr "Available plans"
 
 #: D:\xampp\htdocs\scheduled_exams_website\index.php:309
-msgid "I piani qui sotto riportati potrebbero subire variazioni. Avviseremo gli utenti tramite un post nella nostra <a href='https://community.maicol07.it'>Community</a>"
+msgid ""
+"I piani qui sotto riportati potrebbero subire variazioni. Avviseremo gli "
+"utenti tramite un post nella nostra <a href='https://community.maicol07."
+"it'>Community</a>"
 msgstr ""
 "The plans below may be subject to change. We'll notify users via a post in "
 "our <a href='https://community.maicol07.com'>Community</a>"
@@ -298,17 +340,31 @@ msgid "Politica sulla privacy"
 msgstr "Privacy policy"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:18
-msgid "Questa politica si applica al presente sito web e alla app in qualsiasi forma e su qualsiasi dispositivo (web, app mobile, app desktop) di Interrogazioni Programmate"
+msgid ""
+"Questa politica si applica al presente sito web e alla app in qualsiasi "
+"forma e su qualsiasi dispositivo (web, app mobile, app desktop) di "
+"Interrogazioni Programmate"
 msgstr ""
-"This policy applies to this website and app in any form and on any device ("
-"web, mobile app, desktop app) of Scheduled Queries"
+"This policy applies to this website and app in any form and on any device "
+"(web, mobile app, desktop app) of Scheduled Queries"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:19
 msgid "Dati privati che otteniamo e memorizziamo"
 msgstr "Private data that we obtain and store"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:20
-msgid "Interrogazioni Programmate memorizza e riceve alcune informazioni dal tuo computer o dispositivo mobile, tra cui le attività che effettui nel sito web, nelle piattaforme nelle app di Interrogazioni Programmate, il tipo di hardware e software che stai attualmente utilizzando (ad esempio sistema operativo e browser) e informazioni ottenute dai cookie. Per esempio, ogni volta che visiti il sito o usi i nostri servizi, memorizziamo automaticamente il tuo indirizzo IP, il tuo browser e il tipo di dispositivo, quante volte hai effettuato l'accesso, da quale pagina web provieni, la nazione da cui stai navigando (ad esempio Italia o Stati Uniti), e le pagine web che visiti (se applicabile). C'è molto di più su questa parte e ti vogliamo tenere informato."
+msgid ""
+"Interrogazioni Programmate memorizza e riceve alcune informazioni dal tuo "
+"computer o dispositivo mobile, tra cui le attività che effettui nel sito "
+"web, nelle piattaforme nelle app di Interrogazioni Programmate, il tipo di "
+"hardware e software che stai attualmente utilizzando (ad esempio sistema "
+"operativo e browser) e informazioni ottenute dai cookie. Per esempio, ogni "
+"volta che visiti il sito o usi i nostri servizi, memorizziamo "
+"automaticamente il tuo indirizzo IP, il tuo browser e il tipo di "
+"dispositivo, quante volte hai effettuato l'accesso, da quale pagina web "
+"provieni, la nazione da cui stai navigando (ad esempio Italia o Stati "
+"Uniti), e le pagine web che visiti (se applicabile). C'è molto di più su "
+"questa parte e ti vogliamo tenere informato."
 msgstr ""
 "Scheduled Queries stores and receives some information from your computer or "
 "mobile device, including the activities you do on the website, platforms in "
@@ -322,37 +378,53 @@ msgstr ""
 "and we want to keep you informed."
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:21
-msgid "Quando ti registri per utilizzare Interrogazioni Programmate memorizziamo alcune tue informazioni personali. Queste sono gestite da [Maicol07 Account](https://account.maicol07.it), perciò per maggiori informazioni visita la [politica sulla privacy del servizio](https://account.maicol07.it/privacy)."
+msgid ""
+"Quando ti registri per utilizzare Interrogazioni Programmate memorizziamo "
+"alcune tue informazioni personali. Queste sono gestite da [Maicol07 Account]"
+"(https://account.maicol07.it), perciò per maggiori informazioni visita la "
+"[politica sulla privacy del servizio](https://account.maicol07.it/privacy)."
 msgstr ""
 "When you register to use Scheduled Queries, we store some of your personal "
-"information. These are managed by [Maicol07 "
-"Account](https://account.maicol07.it), so for more information visit the ["
-"service privacy policy](https://account.maicol07.it/privacy)."
+"information. These are managed by [Maicol07 Account](https://account."
+"maicol07.it), so for more information visit the [service privacy policy]"
+"(https://account.maicol07.it/privacy)."
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:25
 msgid "Come usiamo i dati degli utenti"
 msgstr "How we use user data"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:26
-msgid "Interrogazioni Programmate utilizza i dati degli utenti e dei visitatori per i seguenti scopri generali e per altri specifici, che sono anch'essi importanti"
+msgid ""
+"Interrogazioni Programmate utilizza i dati degli utenti e dei visitatori per "
+"i seguenti scopri generali e per altri specifici, che sono anch'essi "
+"importanti"
 msgstr ""
 "Scheduled Queries uses user and visitor data for the following general and "
 "other specifics, which are also important"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:28
-msgid "Per identificare l'utente quando effettua il login al suo account, in modo da poter avviare il processo di sicurezza dell'utente per l'intera sessione e durata"
+msgid ""
+"Per identificare l'utente quando effettua il login al suo account, in modo "
+"da poter avviare il processo di sicurezza dell'utente per l'intera sessione "
+"e durata"
 msgstr ""
 "To identify the user when logging in to their account, so that you can start "
 "the user's security process for the entire session and duration"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:29
-msgid "Per consentirci di gestire i Servizi e di fornirli all'utente senza timore di perdere preziose informazioni riservate degli stessi"
+msgid ""
+"Per consentirci di gestire i Servizi e di fornirli all'utente senza timore "
+"di perdere preziose informazioni riservate degli stessi"
 msgstr ""
 "To enable us to manage the Services and provide them to you without fear of "
 "losing valuable confidential information of the Services"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:30
-msgid "Per verificare le transazioni e per la conferma dell'acquisto, la fatturazione, la sicurezza e l'autenticazione (inclusi i token di sicurezza per la comunicazione con i servizi). Adottare sempre misure di sicurezza come non salvare le password nel browser o scriverle"
+msgid ""
+"Per verificare le transazioni e per la conferma dell'acquisto, la "
+"fatturazione, la sicurezza e l'autenticazione (inclusi i token di sicurezza "
+"per la comunicazione con i servizi). Adottare sempre misure di sicurezza "
+"come non salvare le password nel browser o scriverle"
 msgstr ""
 "To verify transactions and to confirm your purchase, invoicing, security, "
 "and authentication (including security tokens for communicating with "
@@ -360,51 +432,76 @@ msgstr ""
 "browser or writing them"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:31
-msgid "Per analizzare il sito web o gli altri servizi e le informazioni sui nostri visitatori e utenti, compresa la ricerca sulla nostra demografia e sul comportamento degli utenti, al fine di migliorare i nostri contenuti e servizi"
+msgid ""
+"Per analizzare il sito web o gli altri servizi e le informazioni sui nostri "
+"visitatori e utenti, compresa la ricerca sulla nostra demografia e sul "
+"comportamento degli utenti, al fine di migliorare i nostri contenuti e "
+"servizi"
 msgstr ""
 "To analyze the website or other services and information about our visitors "
 "and users, including research on our demographics and user behavior, in "
 "order to improve our content and services"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:32
-msgid "Per contattare l'utente riguardo al suo account e fornire assistenza allo stesso, anche rispondendo ai commenti e alle domande"
+msgid ""
+"Per contattare l'utente riguardo al suo account e fornire assistenza allo "
+"stesso, anche rispondendo ai commenti e alle domande"
 msgstr ""
 "To contact you about your account and provide assistance with your account, "
 "including by answering comments and questions"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:33
-msgid "Per condividere statistiche aggregate (non identificabili) sugli utenti dei Servizi con potenziali inserzionisti e partner"
+msgid ""
+"Per condividere statistiche aggregate (non identificabili) sugli utenti dei "
+"Servizi con potenziali inserzionisti e partner"
 msgstr ""
 "To share aggregated (non-identifiable) statistics about Service users with "
 "potential advertisers and partners"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:34
-msgid "Per tenere gli utenti informati sui Servizi e caratteristiche che riteniamo possano risultare utili o che l'utente ha richiesto"
+msgid ""
+"Per tenere gli utenti informati sui Servizi e caratteristiche che riteniamo "
+"possano risultare utili o che l'utente ha richiesto"
 msgstr ""
 "To keep users informed about the Services and features that we think may be "
 "useful or that you have requested"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:35
-msgid "Per vendere o commercializzare prodotti e servizi agli utenti o in altre parti del mondo dove la legislazione è meno restrittiva"
+msgid ""
+"Per vendere o commercializzare prodotti e servizi agli utenti o in altre "
+"parti del mondo dove la legislazione è meno restrittiva"
 msgstr ""
 "To sell or market products and services to users or other parts of the world "
 "where legislation is less restrictive"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:36
-msgid "Per comprendere meglio le vostre necessità e le esigenze degli utenti nell'aggregato, diagnosticare i problemi, analizzare le tendenze, migliorare le caratteristiche e l'usabilità dei Servizi, e comprendere e commercializzare meglio ai nostri clienti e utenti"
+msgid ""
+"Per comprendere meglio le vostre necessità e le esigenze degli utenti "
+"nell'aggregato, diagnosticare i problemi, analizzare le tendenze, migliorare "
+"le caratteristiche e l'usabilità dei Servizi, e comprendere e "
+"commercializzare meglio ai nostri clienti e utenti"
 msgstr ""
 "To better understand your needs and user needs in the aggregate, diagnose "
 "problems, analyze trends, improve the features and usability of the "
 "Services, and better understand and market to our customers and users"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:37
-msgid "Per mantenere i Servizi sicuri e protetti per tutti coloro che utilizzano l'applicazione, dagli amministratori agli utenti regolari con diritti limitati"
+msgid ""
+"Per mantenere i Servizi sicuri e protetti per tutti coloro che utilizzano "
+"l'applicazione, dagli amministratori agli utenti regolari con diritti "
+"limitati"
 msgstr ""
 "To keep Services safe and secure for everyone using the application, from "
 "administrators to regular users with limited rights"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:38
-msgid "Usiamo anche informazioni non identificabili raccolte a fini statistici per tenere traccia del numero di visite ai Servizi al fine di introdurre miglioramenti e migliorare l'usabilità dei Servizi. Possiamo condividere questo tipo di dati statistici in modo che i nostri partner comprendano anche la frequenza con cui le persone utilizzano i Servizi, in modo che anche loro possano fornire all'utente un'esperienza ottimale."
+msgid ""
+"Usiamo anche informazioni non identificabili raccolte a fini statistici per "
+"tenere traccia del numero di visite ai Servizi al fine di introdurre "
+"miglioramenti e migliorare l'usabilità dei Servizi. Possiamo condividere "
+"questo tipo di dati statistici in modo che i nostri partner comprendano "
+"anche la frequenza con cui le persone utilizzano i Servizi, in modo che "
+"anche loro possano fornire all'utente un'esperienza ottimale."
 msgstr ""
 "We also use unidentifiable information collected for statistical purposes to "
 "track the number of visits to the Services in order to introduce "
@@ -418,7 +515,10 @@ msgid "Contenuti degli utenti che elaboriamo per gli utenti"
 msgstr "User content we process for users"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:44
-msgid "I Servizi consentono ai nostri utenti di creare contenuti memorizzati nel nostro database. La sicurezza dell'utente è il nostro obiettivo primario in questo documento."
+msgid ""
+"I Servizi consentono ai nostri utenti di creare contenuti memorizzati nel "
+"nostro database. La sicurezza dell'utente è il nostro obiettivo primario in "
+"questo documento."
 msgstr ""
 "The Services allow our users to create content stored in our database. User "
 "safety is our primary focus in this document."
@@ -428,7 +528,15 @@ msgid "Consenso all'utilizzo dell'applicazione"
 msgstr "Consent to use the application"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:49
-msgid "Utilizzando uno qualsiasi dei Servizi, o inviando o raccogliendo qualsiasi informazione personale tramite i Servizi, l'utente acconsente alla raccolta, al trasferimento, all'archiviazione, alla divulgazione e all'utilizzo delle proprie informazioni personali secondo le modalità stabilite nella presente Informativa sulla privacy. Se non acconsentite all'uso delle vostre Informazioni Personali in questi modi, vi preghiamo di smettere di utilizzare i Servizi. In questo modo dovrebbe essere sicuro e facile garantire un'ottima esperienza utente."
+msgid ""
+"Utilizzando uno qualsiasi dei Servizi, o inviando o raccogliendo qualsiasi "
+"informazione personale tramite i Servizi, l'utente acconsente alla raccolta, "
+"al trasferimento, all'archiviazione, alla divulgazione e all'utilizzo delle "
+"proprie informazioni personali secondo le modalità stabilite nella presente "
+"Informativa sulla privacy. Se non acconsentite all'uso delle vostre "
+"Informazioni Personali in questi modi, vi preghiamo di smettere di "
+"utilizzare i Servizi. In questo modo dovrebbe essere sicuro e facile "
+"garantire un'ottima esperienza utente."
 msgstr ""
 "By using any of the Services, or by sending or collecting any personal "
 "information through the Services, you consent to the collection, transfer, "
@@ -442,7 +550,13 @@ msgid "Chiedi quali dati abbiamo"
 msgstr "Ask what data we have"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:56
-msgid "Interrogazioni Programmate utilizza la tecnologia di tracciamento sul sito web, nelle Applicazioni e nelle Piattaforme, compresi gli identificativi delle applicazioni mobili e un ID utente unico per aiutarci a riconoscere l'utente attraverso i diversi Servizi, per monitorare l'utilizzo e l'instradamento del traffico web per i Servizi, e per personalizzare e migliorare i Servizi."
+msgid ""
+"Interrogazioni Programmate utilizza la tecnologia di tracciamento sul sito "
+"web, nelle Applicazioni e nelle Piattaforme, compresi gli identificativi "
+"delle applicazioni mobili e un ID utente unico per aiutarci a riconoscere "
+"l'utente attraverso i diversi Servizi, per monitorare l'utilizzo e "
+"l'instradamento del traffico web per i Servizi, e per personalizzare e "
+"migliorare i Servizi."
 msgstr ""
 "Scheduled Queries uses tracking technology on the website, applications and "
 "platforms, including mobile application identifiers and a unique user ID to "
@@ -451,7 +565,13 @@ msgstr ""
 "services."
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:57
-msgid "Visitando questo sito web o utilizzando i Servizi, l'utente accetta l'uso dei cookie nel suo browser e nelle e-mail basate su HTML. Visitando un sito web, utilizzando uno qualsiasi dei Servizi, o inviando o raccogliendo qualsiasi informazione personale tramite i Servizi, l'utente acconsente all'utilizzo delle sue <a class='blue' href='#user_data'>Informazioni personali</a>"
+msgid ""
+"Visitando questo sito web o utilizzando i Servizi, l'utente accetta l'uso "
+"dei cookie nel suo browser e nelle e-mail basate su HTML. Visitando un sito "
+"web, utilizzando uno qualsiasi dei Servizi, o inviando o raccogliendo "
+"qualsiasi informazione personale tramite i Servizi, l'utente acconsente "
+"all'utilizzo delle sue <a class='blue' href='#user_data'>Informazioni "
+"personali</a>"
 msgstr ""
 "By visiting this website or using the Services, you accept the use of "
 "cookies in your browser and in HTML-based emails. By visiting a website, "
@@ -471,17 +591,35 @@ msgstr "Delete my data"
 msgid "Mostrami i miei dati"
 msgstr "Show me my data"
 
-#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:82
-msgid "Ho letto e accetto la [politica sulla privacy](privacy) e i [termini e le condizioni d'uso](terms) di Interrogazioni Programmate"
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:78
+msgid "Voglio inviare un messaggio generico"
+msgstr ""
+
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:84
+msgid "Messaggio (opzionale)"
+msgstr ""
+
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:88
+msgid "Allegati (opzionale)"
+msgstr ""
+
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:92
+#, fuzzy
+#| msgid ""
+#| "Ho letto e accetto la [politica sulla privacy](privacy) e i [termini e le "
+#| "condizioni d'uso](terms) di Interrogazioni Programmate"
+msgid ""
+"Ho letto e accetto la [politica sulla privacy](privacy) e i [termini e le "
+"condizioni d'uso](terms)"
 msgstr ""
 "I have read and accept the [privacy policy] and the [terms and terms of "
 "Scheduled Queries]"
 
-#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:86
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:96
 msgid "Invia"
 msgstr "Send"
 
-#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:97
+#: D:\xampp\htdocs\scheduled_exams_website\privacy.php:106
 #: D:\xampp\htdocs\scheduled_exams_website\terms.php:30
 msgid "Indietro"
 msgstr "Back"
@@ -492,7 +630,16 @@ msgid "Termini e condizioni d'uso"
 msgstr "Terms and conditions of use"
 
 #: D:\xampp\htdocs\scheduled_exams_website\terms.php:16
-msgid "In nessun caso Interrogazioni Programmate sarà responsabile per qualsiasi danno diretto, indiretto, speciale, incidentale o consequenziale, incluso, ma non limitato a, la perdita di dati o di profitto, derivante dall'uso, o dall'impossibilità di usare, i materiali di questo sito, anche se Interrogazioni Programmate o un rappresentante autorizzato è stato informato della possibilità di tali danni. Se l'uso dei materiali di questo sito comporta la necessità di manutenzione, riparazione o correzione di apparecchiature o dati, l'utente si assume i relativi costi solo da parte dell'utente dell'applicazione."
+msgid ""
+"In nessun caso Interrogazioni Programmate sarà responsabile per qualsiasi "
+"danno diretto, indiretto, speciale, incidentale o consequenziale, incluso, "
+"ma non limitato a, la perdita di dati o di profitto, derivante dall'uso, o "
+"dall'impossibilità di usare, i materiali di questo sito, anche se "
+"Interrogazioni Programmate o un rappresentante autorizzato è stato informato "
+"della possibilità di tali danni. Se l'uso dei materiali di questo sito "
+"comporta la necessità di manutenzione, riparazione o correzione di "
+"apparecchiature o dati, l'utente si assume i relativi costi solo da parte "
+"dell'utente dell'applicazione."
 msgstr ""
 "Under no circumstances will Scheduled Queries be responsible for any direct, "
 "indirect, special, incidental or consequential damage, including, but not "
@@ -508,7 +655,11 @@ msgid "Licenza delle risorse"
 msgstr "Resource Licensing"
 
 #: D:\xampp\htdocs\scheduled_exams_website\terms.php:21
-msgid "I nostri Servizi non possiedono una licenza open source, pertanto sono protetti da copyright, anche se utilizziamo librerie open source per diverse funzionalità. L'unica componente disponibile pubblicamente sono le traduzioni dei vari Servizi e di questo sito web."
+msgid ""
+"I nostri Servizi non possiedono una licenza open source, pertanto sono "
+"protetti da copyright, anche se utilizziamo librerie open source per diverse "
+"funzionalità. L'unica componente disponibile pubblicamente sono le "
+"traduzioni dei vari Servizi e di questo sito web."
 msgstr ""
 "Our Services do not have an open source license, so they are copyrighted, "
 "even if we use open source libraries for different features. The only "
@@ -520,7 +671,14 @@ msgid "Memorizzazione dei dati"
 msgstr "Data storage"
 
 #: D:\xampp\htdocs\scheduled_exams_website\terms.php:26
-msgid "Utilizzando uno qualsiasi dei Servizi, o inviando o raccogliendo qualsiasi informazione personale tramite i Servizi, l'utente acconsente alla raccolta, al trasferimento, alla divulgazione e all'utilizzo delle proprie informazioni personali secondo le modalità stabilite nella presente Informativa sulla privacy. Se non acconsentite all'uso delle vostre Informazioni Personali in questi modi, siete pregati di interrompere l'utilizzo del Servizio."
+msgid ""
+"Utilizzando uno qualsiasi dei Servizi, o inviando o raccogliendo qualsiasi "
+"informazione personale tramite i Servizi, l'utente acconsente alla raccolta, "
+"al trasferimento, alla divulgazione e all'utilizzo delle proprie "
+"informazioni personali secondo le modalità stabilite nella presente "
+"Informativa sulla privacy. Se non acconsentite all'uso delle vostre "
+"Informazioni Personali in questi modi, siete pregati di interrompere "
+"l'utilizzo del Servizio."
 msgstr ""
 "By using any of the Services, or by sending or collecting any personal "
 "information through the Services, you agree to the collection, transfer, "
