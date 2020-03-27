@@ -1,8 +1,9 @@
 # Maicol Battistini <maicolbattistini@live.it>, 2020.
+# Anonymous <noreply@weblate.org>, 2020.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-03-27 11:30+0000\n"
-"Last-Translator: Maicol Battistini <maicolbattistini@live.it>\n"
+"PO-Revision-Date: 2020-03-27 14:11+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: English (United States) <https://translate.maicol07.it/"
 "projects/scheduled-exams/website/en_US/>\n"
 "Language: en_US\n"
@@ -13,8 +14,9 @@ msgstr ""
 "X-Domain: messages\n"
 
 #: D:\xampp\htdocs\scheduled_exams_website\form.php:14
+#, fuzzy
 msgid "%s è richiesto "
-msgstr ""
+msgstr "%s is required "
 
 #: D:\xampp\htdocs\scheduled_exams_website\form.php:34
 msgid "Messaggio dal sito web di Interrogazioni Programmate"
@@ -592,16 +594,19 @@ msgid "Mostrami i miei dati"
 msgstr "Show me my data"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:78
+#, fuzzy
 msgid "Voglio inviare un messaggio generico"
-msgstr ""
+msgstr "I want to send a generic message"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:84
+#, fuzzy
 msgid "Messaggio (opzionale)"
-msgstr ""
+msgstr "Message (optional)"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:88
+#, fuzzy
 msgid "Allegati (opzionale)"
-msgstr ""
+msgstr "Attachments (optional)"
 
 #: D:\xampp\htdocs\scheduled_exams_website\privacy.php:92
 #, fuzzy
